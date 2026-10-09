@@ -1,0 +1,8 @@
+Velebit mountain in cloudy sunset.jpg
+Photograph by Magdalena Miočev, 28 December 2019.
+Source: https://commons.wikimedia.org/wiki/File:Velebit_mountain_in_cloudy_sunset.jpg
+Original: https://upload.wikimedia.org/wikipedia/commons/1/1b/Velebit_mountain_in_cloudy_sunset.jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+Changes: reduced dimensions and JPEG compression; responsive cropping and a dark overlay are applied by CSS on the website.
+The photograph and any adapted version remain licensed under CC BY-SA 4.0.
